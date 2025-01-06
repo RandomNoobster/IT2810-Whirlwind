@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/project1',
+  base: '/whirlwind',
   server: {
     open: true,
   },
@@ -13,5 +13,5 @@ export default defineConfig({
     globals: true,
     environment: 'jsdom',
     setupFiles: 'src/test/setup.ts',
-  }
+  },
 });

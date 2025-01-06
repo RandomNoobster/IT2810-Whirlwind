@@ -16,7 +16,7 @@ You can run the tests by using `npm run test`. This will run all the tests, incl
 
 ### Accessing the application through the VM
 
-If you are connected to an NTNU-associated network or if you are using the NTNU-distributed VPN, you can access the app at [http://it2810-05.idi.ntnu.no/project1](http://it2810-05.idi.ntnu.no/project1).
+If you are connected to an NTNU-associated network or if you are using the NTNU-distributed VPN, you can access the app at [http://it2810-05.idi.ntnu.no/whirlwind](http://it2810-05.idi.ntnu.no/whirlwind).
 
 ## How to contribute
 

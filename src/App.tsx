@@ -36,7 +36,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/project1',
+    basename: '/whirlwind',
   },
 );
 
