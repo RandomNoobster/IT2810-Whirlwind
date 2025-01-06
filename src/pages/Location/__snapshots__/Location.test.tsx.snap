@@ -13,7 +13,7 @@ exports[`Location > should match snapshot 1`] = `
         <img
           alt="Whirlwind Logo"
           class="_img_63c2ea"
-          src="/project1/src/assets/Whirlwind_Logo.png"
+          src="/whirlwind/src/assets/Whirlwind_Logo.png"
         />
         <div>
           <h1>

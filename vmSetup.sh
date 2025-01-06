@@ -1,7 +1,7 @@
 #!/bin/bash
-cd /home/krisose/T05-Project-1
+cd /home/opc/IT2810-Whirlwind
 git pull
 npm install
 npm run build
-sudo rm -rf /var/www/html/project1/ 
-sudo mv dist /var/www/html/project1/
+sudo rm -rf /var/www/html/whirlwind/ 
+sudo mv dist /var/www/html/whirlwind/
